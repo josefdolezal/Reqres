@@ -6,6 +6,8 @@
 //
 //
 
+import Foundation
+
 open class ReqresDefaultLogger: ReqresLogging {
 
     open var logLevel: LogLevel = .verbose
